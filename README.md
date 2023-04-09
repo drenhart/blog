@@ -1,7 +1,7 @@
 # drenhart的博客
 
 <p align='center'>
-<img src='http://images.bestswifter.com/ghost/1/e3/7161ecc907a4ee5f13214f2cac9d4.jpg'>
+<img src="https://github.com/drenhart/blog/blob/main/pictures/Bioshock.jpg">
 </p>
 
 <p align='center'>
