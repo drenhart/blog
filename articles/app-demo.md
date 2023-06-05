@@ -155,7 +155,7 @@ open class ServerModel: IServerModel {
 
 #### 结构如下图所示
 
-![](./pictures/AppDemo.png)
+![](../pictures/AppDemo.png)
 
 ### 网络请求(ApiNetwork)
 Common中声明一个protocol
@@ -180,7 +180,7 @@ public class PApiNetwork: IApiNetwork {
 ```
 ### 结构如下图所示
 
-![](./pictures/AppDemo2.png)
+![](../pictures/AppDemo2.png)
 
 实际使用中调用一下就可以了
 
