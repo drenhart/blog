@@ -1,4 +1,4 @@
-## resource.pb和dependencies.pb文件的解析
+## resources.pb和dependencies.pb文件的解析
 
 ### pb文件是什么
 
