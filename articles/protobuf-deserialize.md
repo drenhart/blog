@@ -20,11 +20,11 @@ dependencies.pb的对应proto文件在bundletool中。bundletool的代码开源�
 
 ### 对应类生成
 
-protobuf的文档地址在这里 [地址](https://protobuf.dev/)。
+protobuf的文档地址在[这里](https://protobuf.dev/)。
 
 点击右下角Download and install安装命令行工具。
 
-这里有常用语言的命令行工具使用教程 [地址](https://protobuf.dev/getting-started/csharptutorial/)。
+常用语言的命令行工具使用教程在[这里](https://protobuf.dev/getting-started/csharptutorial/)。
 
 按照教程生成对应类，C#语言的具体例子如下：
 
